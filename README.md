@@ -1,1 +1,1 @@
-# Towards-a-Biological-AGI-for-Cellular-Agriculture
+# Towards a Biological AGI for Cellular Agriculture
